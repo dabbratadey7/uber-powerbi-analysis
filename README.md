@@ -20,13 +20,8 @@ This project presents an interactive Power BI dashboard built using real-world U
 
 
 📷 Dashboard Preview
-*(Add a screenshot of your Power BI dashboard below)*
 
-![Uber Dashboard Screenshot](your-image-link-here.png)
+[![Uber Dashboard Screenshot](your-image-link-here.png)](https://github.com/dabbratadey7/uber-powerbi-analysis/blob/main/Uber%20Sales%20Analysis.png?raw=true)
 
----
 
-## 🚀 How to Run This Project
-1. Clone this repository to your local machine:
-   ```bash
    git clone [https://github.com/your-username/uber-powerbi-analysis.git](https://github.com/your-username/uber-powerbi-analysis.git)
